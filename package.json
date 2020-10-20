@@ -1,0 +1,22 @@
+{
+  "name": "trick-cord-treat-selfbot",
+  "version": "1.0.0",
+  "description": "Automatic h!treat or h!trick",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elyter/Trick-cord-Treat-SelfBot.git"
+  },
+  "author": "Elyter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elyter/Trick-cord-Treat-SelfBot/issues"
+  },
+  "homepage": "https://github.com/Elyter/Trick-cord-Treat-SelfBot#readme",
+  "dependencies": {
+    "discord.js": "^11.6.4"
+  }
+}
